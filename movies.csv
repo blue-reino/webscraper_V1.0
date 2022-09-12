@@ -1,0 +1,751 @@
+,cNum,Title,Ratings
+0,"1.
+      The Shawshank Redemption
+(1994)",The Shawshank Redemption,9.2
+1,"2.
+      The Godfather
+(1972)",The Godfather,9.2
+2,"3.
+      The Dark Knight
+(2008)",The Dark Knight,9.0
+3,"4.
+      The Godfather Part II
+(1974)",The Godfather Part II,9.0
+4,"5.
+      12 Angry Men
+(1957)",12 Angry Men,8.9
+5,"6.
+      Schindler's List
+(1993)",Schindler's List,8.9
+6,"7.
+      The Lord of the Rings: The Return of the King
+(2003)",The Lord of the Rings: The Return of the King,8.9
+7,"8.
+      Pulp Fiction
+(1994)",Pulp Fiction,8.8
+8,"9.
+      The Lord of the Rings: The Fellowship of the Ring
+(2001)",The Lord of the Rings: The Fellowship of the Ring,8.8
+9,"10.
+      The Good, the Bad and the Ugly
+(1966)","The Good, the Bad and the Ugly",8.8
+10,"11.
+      Forrest Gump
+(1994)",Forrest Gump,8.8
+11,"12.
+      Fight Club
+(1999)",Fight Club,8.7
+12,"13.
+      Inception
+(2010)",Inception,8.7
+13,"14.
+      The Lord of the Rings: The Two Towers
+(2002)",The Lord of the Rings: The Two Towers,8.7
+14,"15.
+      Star Wars: Episode V - The Empire Strikes Back
+(1980)",Star Wars: Episode V - The Empire Strikes Back,8.7
+15,"16.
+      The Matrix
+(1999)",The Matrix,8.7
+16,"17.
+      Goodfellas
+(1990)",Goodfellas,8.7
+17,"18.
+      One Flew Over the Cuckoo's Nest
+(1975)",One Flew Over the Cuckoo's Nest,8.6
+18,"19.
+      Se7en
+(1995)",Se7en,8.6
+19,"20.
+      Seven Samurai
+(1954)",Seven Samurai,8.6
+20,"21.
+      It's a Wonderful Life
+(1946)",It's a Wonderful Life,8.6
+21,"22.
+      The Silence of the Lambs
+(1991)",The Silence of the Lambs,8.6
+22,"23.
+      City of God
+(2002)",City of God,8.6
+23,"24.
+      Saving Private Ryan
+(1998)",Saving Private Ryan,8.6
+24,"25.
+      Life Is Beautiful
+(1997)",Life Is Beautiful,8.6
+25,"26.
+      The Green Mile
+(1999)",The Green Mile,8.6
+26,"27.
+      Interstellar
+(2014)",Interstellar,8.6
+27,"28.
+      Star Wars
+(1977)",Star Wars,8.6
+28,"29.
+      Terminator 2: Judgment Day
+(1991)",Terminator 2: Judgment Day,8.5
+29,"30.
+      Back to the Future
+(1985)",Back to the Future,8.5
+30,"31.
+      Spirited Away
+(2001)",Spirited Away,8.5
+31,"32.
+      Psycho
+(1960)",Psycho,8.5
+32,"33.
+      The Pianist
+(2002)",The Pianist,8.5
+33,"34.
+      Léon: The Professional
+(1994)",Léon: The Professional,8.5
+34,"35.
+      Parasite
+(2019)",Parasite,8.5
+35,"36.
+      The Lion King
+(1994)",The Lion King,8.5
+36,"37.
+      Gladiator
+(2000)",Gladiator,8.5
+37,"38.
+      American History X
+(1998)",American History X,8.5
+38,"39.
+      The Departed
+(2006)",The Departed,8.5
+39,"40.
+      The Usual Suspects
+(1995)",The Usual Suspects,8.5
+40,"41.
+      The Prestige
+(2006)",The Prestige,8.5
+41,"42.
+      Casablanca
+(1942)",Casablanca,8.5
+42,"43.
+      Whiplash
+(2014)",Whiplash,8.5
+43,"44.
+      The Intouchables
+(2011)",The Intouchables,8.5
+44,"45.
+      Grave of the Fireflies
+(1988)",Grave of the Fireflies,8.5
+45,"46.
+      Harakiri
+(1962)",Harakiri,8.5
+46,"47.
+      Modern Times
+(1936)",Modern Times,8.4
+47,"48.
+      Once Upon a Time in the West
+(1968)",Once Upon a Time in the West,8.4
+48,"49.
+      Rear Window
+(1954)",Rear Window,8.4
+49,"50.
+      Alien
+(1979)",Alien,8.4
+50,"51.
+      City Lights
+(1931)",City Lights,8.4
+51,"52.
+      Cinema Paradiso
+(1988)",Cinema Paradiso,8.4
+52,"53.
+      Apocalypse Now
+(1979)",Apocalypse Now,8.4
+53,"54.
+      Memento
+(2000)",Memento,8.4
+54,"55.
+      Indiana Jones and the Raiders of the Lost Ark
+(1981)",Indiana Jones and the Raiders of the Lost Ark,8.4
+55,"56.
+      Django Unchained
+(2012)",Django Unchained,8.4
+56,"57.
+      WALL·E
+(2008)",WALL·E,8.4
+57,"58.
+      The Lives of Others
+(2006)",The Lives of Others,8.4
+58,"59.
+      Sunset Blvd.
+(1950)",Sunset Blvd.,8.4
+59,"60.
+      Paths of Glory
+(1957)",Paths of Glory,8.4
+60,"61.
+      The Shining
+(1980)",The Shining,8.4
+61,"62.
+      The Great Dictator
+(1940)",The Great Dictator,8.4
+62,"63.
+      Avengers: Infinity War
+(2018)",Avengers: Infinity War,8.4
+63,"64.
+      Witness for the Prosecution
+(1957)",Witness for the Prosecution,8.4
+64,"65.
+      Top Gun: Maverick
+(2022)",Top Gun: Maverick,8.3
+65,"66.
+      Aliens
+(1986)",Aliens,8.3
+66,"67.
+      American Beauty
+(1999)",American Beauty,8.3
+67,"68.
+      Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+(1964)",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3
+68,"69.
+      Spider-Man: Into the Spider-Verse
+(2018)",Spider-Man: Into the Spider-Verse,8.3
+69,"70.
+      The Dark Knight Rises
+(2012)",The Dark Knight Rises,8.3
+70,"71.
+      Oldboy
+(2003)",Oldboy,8.3
+71,"72.
+      Joker
+(2019)",Joker,8.3
+72,"73.
+      Amadeus
+(1984)",Amadeus,8.3
+73,"74.
+      Braveheart
+(1995)",Braveheart,8.3
+74,"75.
+      Toy Story
+(1995)",Toy Story,8.3
+75,"76.
+      Coco
+(2017)",Coco,8.3
+76,"77.
+      Inglourious Basterds
+(2009)",Inglourious Basterds,8.3
+77,"78.
+      The Boat
+(1981)",The Boat,8.3
+78,"79.
+      Princess Mononoke
+(1997)",Princess Mononoke,8.3
+79,"80.
+      Avengers: Endgame
+(2019)",Avengers: Endgame,8.3
+80,"81.
+      Once Upon a Time in America
+(1984)",Once Upon a Time in America,8.3
+81,"82.
+      Good Will Hunting
+(1997)",Good Will Hunting,8.3
+82,"83.
+      Your Name.
+(2016)",Your Name.,8.3
+83,"84.
+      Requiem for a Dream
+(2000)",Requiem for a Dream,8.3
+84,"85.
+      Toy Story 3
+(2010)",Toy Story 3,8.3
+85,"86.
+      Singin' in the Rain
+(1952)",Singin' in the Rain,8.3
+86,"87.
+      3 Idiots
+(2009)",3 Idiots,8.3
+87,"88.
+      Star Wars: Episode VI - Return of the Jedi
+(1983)",Star Wars: Episode VI - Return of the Jedi,8.3
+88,"89.
+      High and Low
+(1963)",High and Low,8.3
+89,"90.
+      2001: A Space Odyssey
+(1968)",2001: A Space Odyssey,8.3
+90,"91.
+      Eternal Sunshine of the Spotless Mind
+(2004)",Eternal Sunshine of the Spotless Mind,8.3
+91,"92.
+      Reservoir Dogs
+(1992)",Reservoir Dogs,8.3
+92,"93.
+      Capernaum
+(2018)",Capernaum,8.3
+93,"94.
+      The Hunt
+(2012)",The Hunt,8.3
+94,"95.
+      Lawrence of Arabia
+(1962)",Lawrence of Arabia,8.3
+95,"96.
+      Citizen Kane
+(1941)",Citizen Kane,8.3
+96,"97.
+      M
+(1931)",M,8.3
+97,"98.
+      North by Northwest
+(1959)",North by Northwest,8.3
+98,"99.
+      Come and See
+(1985)",Come and See,8.2
+99,"100.
+      Vertigo
+(1958)",Vertigo,8.2
+100,"101.
+      Amélie
+(2001)",Amélie,8.2
+101,"102.
+      A Clockwork Orange
+(1971)",A Clockwork Orange,8.2
+102,"103.
+      Double Indemnity
+(1944)",Double Indemnity,8.2
+103,"104.
+      Full Metal Jacket
+(1987)",Full Metal Jacket,8.2
+104,"105.
+      The Apartment
+(1960)",The Apartment,8.2
+105,"106.
+      Scarface
+(1983)",Scarface,8.2
+106,"107.
+      Ikiru
+(1952)",Ikiru,8.2
+107,"108.
+      The Sting
+(1973)",The Sting,8.2
+108,"109.
+      To Kill a Mockingbird
+(1962)",To Kill a Mockingbird,8.2
+109,"110.
+      Taxi Driver
+(1976)",Taxi Driver,8.2
+110,"111.
+      Heat
+(1995)",Heat,8.2
+111,"112.
+      Up
+(2009)",Up,8.2
+112,"113.
+      L.A. Confidential
+(1997)",L.A. Confidential,8.2
+113,"114.
+      Incendies
+(2010)",Incendies,8.2
+114,"115.
+      Metropolis
+(1927)",Metropolis,8.2
+115,"116.
+      A Separation
+(2011)",A Separation,8.2
+116,"117.
+      Die Hard
+(1988)",Die Hard,8.2
+117,"118.
+      Snatch
+(2000)",Snatch,8.2
+118,"119.
+      Hamilton
+(2020)",Hamilton,8.2
+119,"120.
+      Indiana Jones and the Last Crusade
+(1989)",Indiana Jones and the Last Crusade,8.2
+120,"121.
+      Bicycle Thieves
+(1948)",Bicycle Thieves,8.2
+121,"122.
+      1917
+(2019)",1917,8.2
+122,"123.
+      Like Stars on Earth
+(2007)",Like Stars on Earth,8.2
+123,"124.
+      Downfall
+(2004)",Downfall,8.2
+124,"125.
+      For a Few Dollars More
+(1965)",For a Few Dollars More,8.2
+125,"126.
+      Batman Begins
+(2005)",Batman Begins,8.2
+126,"127.
+      Dangal
+(2016)",Dangal,8.2
+127,"128.
+      The Kid
+(1921)",The Kid,8.2
+128,"129.
+      Some Like It Hot
+(1959)",Some Like It Hot,8.2
+129,"130.
+      All About Eve
+(1950)",All About Eve,8.2
+130,"131.
+      The Father
+(2020)",The Father,8.2
+131,"132.
+      Green Book
+(2018)",Green Book,8.2
+132,"133.
+      The Wolf of Wall Street
+(2013)",The Wolf of Wall Street,8.2
+133,"134.
+      Judgment at Nuremberg
+(1961)",Judgment at Nuremberg,8.2
+134,"135.
+      Spider-Man: No Way Home
+(2021)",Spider-Man: No Way Home,8.2
+135,"136.
+      Ran
+(1985)",Ran,8.2
+136,"137.
+      Casino
+(1995)",Casino,8.2
+137,"138.
+      Unforgiven
+(1992)",Unforgiven,8.2
+138,"139.
+      Pan's Labyrinth
+(2006)",Pan's Labyrinth,8.2
+139,"140.
+      There Will Be Blood
+(2007)",There Will Be Blood,8.2
+140,"141.
+      The Truman Show
+(1998)",The Truman Show,8.2
+141,"142.
+      The Sixth Sense
+(1999)",The Sixth Sense,8.2
+142,"143.
+      A Beautiful Mind
+(2001)",A Beautiful Mind,8.2
+143,"144.
+      Monty Python and the Holy Grail
+(1975)",Monty Python and the Holy Grail,8.2
+144,"145.
+      Yojimbo
+(1961)",Yojimbo,8.1
+145,"146.
+      The Treasure of the Sierra Madre
+(1948)",The Treasure of the Sierra Madre,8.1
+146,"147.
+      Shutter Island
+(2010)",Shutter Island,8.1
+147,"148.
+      Jurassic Park
+(1993)",Jurassic Park,8.1
+148,"149.
+      Rashomon
+(1950)",Rashomon,8.1
+149,"150.
+      The Great Escape
+(1963)",The Great Escape,8.1
+150,"151.
+      Kill Bill: Vol. 1
+(2003)",Kill Bill: Vol. 1,8.1
+151,"152.
+      No Country for Old Men
+(2007)",No Country for Old Men,8.1
+152,"153.
+      Finding Nemo
+(2003)",Finding Nemo,8.1
+153,"154.
+      The Elephant Man
+(1980)",The Elephant Man,8.1
+154,"155.
+      Chinatown
+(1974)",Chinatown,8.1
+155,"156.
+      Raging Bull
+(1980)",Raging Bull,8.1
+156,"157.
+      The Thing
+(1982)",The Thing,8.1
+157,"158.
+      Gone with the Wind
+(1939)",Gone with the Wind,8.1
+158,"159.
+      V for Vendetta
+(2005)",V for Vendetta,8.1
+159,"160.
+      Inside Out
+(2015)",Inside Out,8.1
+160,"161.
+      Lock, Stock and Two Smoking Barrels
+(1998)","Lock, Stock and Two Smoking Barrels",8.1
+161,"162.
+      Dial M for Murder
+(1954)",Dial M for Murder,8.1
+162,"163.
+      The Secret in Their Eyes
+(2009)",The Secret in Their Eyes,8.1
+163,"164.
+      Howl's Moving Castle
+(2004)",Howl's Moving Castle,8.1
+164,"165.
+      The Bridge on the River Kwai
+(1957)",The Bridge on the River Kwai,8.1
+165,"166.
+      Three Billboards Outside Ebbing, Missouri
+(2017)","Three Billboards Outside Ebbing, Missouri",8.1
+166,"167.
+      Trainspotting
+(1996)",Trainspotting,8.1
+167,"168.
+      Warrior
+(2011)",Warrior,8.1
+168,"169.
+      Gran Torino
+(2008)",Gran Torino,8.1
+169,"170.
+      Fargo
+(1996)",Fargo,8.1
+170,"171.
+      Prisoners
+(2013)",Prisoners,8.1
+171,"172.
+      My Neighbor Totoro
+(1988)",My Neighbor Totoro,8.1
+172,"173.
+      Million Dollar Baby
+(2004)",Million Dollar Baby,8.1
+173,"174.
+      Catch Me If You Can
+(2002)",Catch Me If You Can,8.1
+174,"175.
+      The Gold Rush
+(1925)",The Gold Rush,8.1
+175,"176.
+      Blade Runner
+(1982)",Blade Runner,8.1
+176,"177.
+      On the Waterfront
+(1954)",On the Waterfront,8.1
+177,"178.
+      Children of Heaven
+(1997)",Children of Heaven,8.1
+178,"179.
+      The Third Man
+(1949)",The Third Man,8.1
+179,"180.
+      Before Sunrise
+(1995)",Before Sunrise,8.1
+180,"181.
+      Ben-Hur
+(1959)",Ben-Hur,8.1
+181,"182.
+      12 Years a Slave
+(2013)",12 Years a Slave,8.1
+182,"183.
+      Wild Strawberries
+(1957)",Wild Strawberries,8.1
+183,"184.
+      Harry Potter and the Deathly Hallows: Part 2
+(2011)",Harry Potter and the Deathly Hallows: Part 2,8.1
+184,"185.
+      Gone Girl
+(2014)",Gone Girl,8.1
+185,"186.
+      The General
+(1926)",The General,8.1
+186,"187.
+      The Deer Hunter
+(1978)",The Deer Hunter,8.1
+187,"188.
+      In the Name of the Father
+(1993)",In the Name of the Father,8.1
+188,"189.
+      The Grand Budapest Hotel
+(2014)",The Grand Budapest Hotel,8.1
+189,"190.
+      Barry Lyndon
+(1975)",Barry Lyndon,8.1
+190,"191.
+      Mr. Smith Goes to Washington
+(1939)",Mr. Smith Goes to Washington,8.1
+191,"192.
+      The Wages of Fear
+(1953)",The Wages of Fear,8.1
+192,"193.
+      Hacksaw Ridge
+(2016)",Hacksaw Ridge,8.1
+193,"194.
+      Sherlock Jr.
+(1924)",Sherlock Jr.,8.1
+194,"195.
+      Memories of Murder
+(2003)",Memories of Murder,8.1
+195,"196.
+      Klaus
+(2019)",Klaus,8.1
+196,"197.
+      Wild Tales
+(2014)",Wild Tales,8.1
+197,"198.
+      Everything Everywhere All at Once
+(2022)",Everything Everywhere All at Once,8.1
+198,"199.
+      The Seventh Seal
+(1957)",The Seventh Seal,8.1
+199,"200.
+      Room
+(2015)",Room,8.1
+200,"201.
+      Mad Max: Fury Road
+(2015)",Mad Max: Fury Road,8.1
+201,"202.
+      How to Train Your Dragon
+(2010)",How to Train Your Dragon,8.1
+202,"203.
+      The Big Lebowski
+(1998)",The Big Lebowski,8.1
+203,"204.
+      Mary and Max
+(2009)",Mary and Max,8.1
+204,"205.
+      Jaws
+(1975)",Jaws,8.1
+205,"206.
+      Monsters, Inc.
+(2001)","Monsters, Inc.",8.1
+206,"207.
+      Tokyo Story
+(1953)",Tokyo Story,8.1
+207,"208.
+      Dead Poets Society
+(1989)",Dead Poets Society,8.1
+208,"209.
+      The Passion of Joan of Arc
+(1928)",The Passion of Joan of Arc,8.1
+209,"210.
+      Hotel Rwanda
+(2004)",Hotel Rwanda,8.1
+210,"211.
+      Rocky
+(1976)",Rocky,8.0
+211,"212.
+      Ford v Ferrari
+(2019)",Ford v Ferrari,8.0
+212,"213.
+      Platoon
+(1986)",Platoon,8.0
+213,"214.
+      Pather Panchali
+(1955)",Pather Panchali,8.0
+214,"215.
+      Stand by Me
+(1986)",Stand by Me,8.0
+215,"216.
+      The Terminator
+(1984)",The Terminator,8.0
+216,"217.
+      Spotlight
+(2015)",Spotlight,8.0
+217,"218.
+      Rush
+(2013)",Rush,8.0
+218,"219.
+      Logan
+(2017)",Logan,8.0
+219,"220.
+      Network
+(1976)",Network,8.0
+220,"221.
+      Ratatouille
+(2007)",Ratatouille,8.0
+221,"222.
+      Into the Wild
+(2007)",Into the Wild,8.0
+222,"223.
+      The Wizard of Oz
+(1939)",The Wizard of Oz,8.0
+223,"224.
+      Groundhog Day
+(1993)",Groundhog Day,8.0
+224,"225.
+      Before Sunset
+(2004)",Before Sunset,8.0
+225,"226.
+      The Exorcist
+(1973)",The Exorcist,8.0
+226,"227.
+      The Best Years of Our Lives
+(1946)",The Best Years of Our Lives,8.0
+227,"228.
+      The Incredibles
+(2004)",The Incredibles,8.0
+228,"229.
+      To Be or Not to Be
+(1942)",To Be or Not to Be,8.0
+229,"230.
+      The Grapes of Wrath
+(1940)",The Grapes of Wrath,8.0
+230,"231.
+      The Battle of Algiers
+(1966)",The Battle of Algiers,8.0
+231,"232.
+      Rebecca
+(1940)",Rebecca,8.0
+232,"233.
+      Hachi: A Dog's Tale
+(2009)",Hachi: A Dog's Tale,8.0
+233,"234.
+      Cool Hand Luke
+(1967)",Cool Hand Luke,8.0
+234,"235.
+      Pirates of the Caribbean: The Curse of the Black Pearl
+(2003)",Pirates of the Caribbean: The Curse of the Black Pearl,8.0
+235,"236.
+      Amores perros
+(2000)",Amores perros,8.0
+236,"237.
+      La Haine
+(1995)",La Haine,8.0
+237,"238.
+      Jai Bhim
+(2021)",Jai Bhim,8.0
+238,"239.
+      My Father and My Son
+(2005)",My Father and My Son,8.0
+239,"240.
+      The 400 Blows
+(1959)",The 400 Blows,8.0
+240,"241.
+      Persona
+(1966)",Persona,8.0
+241,"242.
+      It Happened One Night
+(1934)",It Happened One Night,8.0
+242,"243.
+      The Sound of Music
+(1965)",The Sound of Music,8.0
+243,"244.
+      Life of Brian
+(1979)",Life of Brian,8.0
+244,"245.
+      The Handmaiden
+(2016)",The Handmaiden,8.0
+245,"246.
+      Dersu Uzala
+(1975)",Dersu Uzala,8.0
+246,"247.
+      Aladdin
+(1992)",Aladdin,8.0
+247,"248.
+      Gandhi
+(1982)",Gandhi,8.0
+248,"249.
+      The Help
+(2011)",The Help,8.0
+249,"250.
+      The Iron Giant
+(1999)",The Iron Giant,8.0
