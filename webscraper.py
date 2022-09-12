@@ -10,12 +10,7 @@ url = "https://www.imdb.com/chart/top/"
 html_text = requests.get(url).text
 soup = BeautifulSoup(html_text, 'lxml')
 
-dom = etree.HTML(str(soup))
-table = soup.find('table', class_='chart full-width')
-movies = soup.find('td', class_ = 'titleColumn')
-
-
-table in soup.find_all('table')
+tables = soup.find_all('table')
 table = soup.find('table', class_='chart full-width')
 
 #defining the data frame
